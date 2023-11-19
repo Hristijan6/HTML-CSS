@@ -1,0 +1,73 @@
+
+
+#first {
+    background-color: antiquewhite;
+    height: 100px;
+    width: 80px;
+    border: 3px solid black;
+    float: left;
+    position: static;
+}
+
+#second {
+    background-color: red;
+    height: 220px;
+    width: 220px;
+    border: 3px solid black;
+    position: relative;
+    display: flex ;
+}
+
+#third {
+    background-color: antiquewhite;
+    height: 128px;
+    width: 80px;
+    border: 3px solid black;
+    position: relative;
+    top: -140px;
+    border-top: 10px solid black;
+    display: flex;
+    
+}
+
+#fourth {
+    background-color: rgb(18, 106, 173);
+    height: 80px;
+    width: 80px;
+    border: 3px solid black;
+    position: relative;
+    top: -140px;
+    float: left; 
+}
+
+#fifth {
+    background-color: antiquewhite;
+    height: 80px;
+    width: 200px;
+    border: 3px solid black;
+    position: relative;
+    top: -140px;
+    float: left;
+}
+
+#sixth {
+    background-color: antiquewhite;
+    height: 40px;
+    width: 15px;
+    border: 3px solid black;
+    border-bottom: 5px solid black;
+    position: fixed;
+    top: 232px;
+    float: left;
+}
+
+#seventh {
+    background-color: yellow;
+    height: 33px;
+    width: 15px;
+    border: 3px solid black;
+    border-top: 10px solid black;
+    position: relative;
+    top: -100px;
+    display: flex;
+}
